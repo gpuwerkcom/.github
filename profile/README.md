@@ -26,6 +26,7 @@ waitlist. Current prices and availability: [gpuwerk.com/gpus](https://gpuwerk.co
 - **Deploy:** [console.gpuwerk.com/deploy](https://console.gpuwerk.com/deploy)
 - **Getting started:** [console.gpuwerk.com/guide](https://console.gpuwerk.com/guide)
 - **Docs and API:** [gpuwerk.com/docs](https://gpuwerk.com/docs)
+- **Playbooks:** step-by-step guides for a rented DGX Spark, [gpuwerk-playbooks](https://github.com/gpuwerkcom/gpuwerk-playbooks)
 - **Own a DGX Spark? Rent it out:** [gpuwerk.com/rent-out-your-spark](https://gpuwerk.com/rent-out-your-spark)
 - **Status:** [status.gpuwerk.com](https://status.gpuwerk.com)
 - **Blog:** [gpuwerk.com/blog](https://gpuwerk.com/blog)
